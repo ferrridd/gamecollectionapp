@@ -1,0 +1,201 @@
+1.{
+    Word: thrifty
+    Banned words:
+    cheap
+    spend
+    money
+    stingy
+}
+2.{
+    Word: double
+    Banned words:
+    twice
+    number
+    triple
+    amount
+}
+3.{
+    Word: tragedy
+    Banned words:
+    terrible
+    sad
+    victim
+    disaster
+}
+4.{
+    Word: lawn
+    Banned words:
+    grass
+    mow
+    green
+    yard
+}
+5.{
+    Word: arrest
+    Banned words:
+    jail
+    criminal
+    police
+    handcuffs       
+}
+6.{
+    Word: myth
+    Banned words:
+    Greek
+    legend
+    history
+    culture       
+}
+7.{
+    Word: educate
+    Banned words:
+    child
+    teach
+    learn
+    school  
+}
+8.{
+    Word: measurement
+    Banned words:
+    unit
+    height
+    distance
+    length
+}
+9.{
+    Word: prescription
+    Banned words:
+    doctor
+    paper
+    medicine
+    pharmacy
+}
+10.{
+    Word: grave
+    Banned words:
+    bury
+    cemetery
+    dig
+    funeral
+}
+11.{
+    Word: makeup
+    Banned words:
+    women
+    lipstick
+    pretty
+    put on
+}
+12.{
+    Word: hunt
+    Banned words:
+    deer
+    gun
+    woods
+    food
+}
+13.{
+    Word: surgeon
+    Banned words:
+    doctor
+    surgery
+    operation
+    hospital    
+}
+14.{
+    Word: suburb
+    Banned words:
+    city
+    outside
+    quiet
+    live
+}
+15.{
+    Word: minimum
+    Banned words:
+    maximum
+    lowest
+    wage
+    amount
+}
+16.{
+    Word: sacred
+    Banned words:
+    holy
+    religious
+    blessed
+    cow
+}
+17.{
+    Word: warrior
+    Banned words:
+    soldier
+    war
+    attack
+    battle
+}
+18.{
+    Word: retired
+    Banned words:
+    work
+    relax
+    old
+    pension
+}
+19.{
+    Word: survey
+    Banned words:
+    ask
+    questions
+    opinion
+    fill out
+}
+20.{
+    Word: corruption
+    Banned words:
+    politician
+    bribe
+    government
+    scandal
+}
+21.{
+    Word: hook
+    Banned words:
+    fishing
+    metal
+    sharp
+    bait
+}
+22.{
+    Word: ankle
+    Banned words:
+    sprain
+    leg
+    foot
+    break
+}
+23.{
+    Word: steep
+    Banned words:
+    climb
+    mountain
+    hill
+    angle
+}
+24.{
+    Word: spread
+    Banned words:
+    disease
+    virus
+    infection
+    prevent
+}
+25.{
+    Word: cooperate
+    Banned words:
+    together
+    everyone
+    unite
+    work
+}
+
